@@ -2,14 +2,13 @@
 длина которых меньше либо равна 3 символа. 
 */ 
 
-Console.Clear();
 
-string[] FirstArray = new string[5] {"123", "23", "hello", "world", "res"};
+string[] FirstArray = new string[7] {"Friend", "678", "Cat", "world", "7886", "Dog", "Array"};
 string[] SecondArray = new string[FirstArray.Length];
 
 {
     int count = 0;
-    for (int i = 0; i < array1.Length; i++)
+    for (int i = 0; i < FirstArray.Length; i++)
     {
     if(FirstArray[i].Length <= 3)
         {
@@ -18,3 +17,14 @@ string[] SecondArray = new string[FirstArray.Length];
         }
     }
 }
+
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
+
+PrintArray(SecondArray);

@@ -1,0 +1,15 @@
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\obj\Debug\net6.0\FinalTestKarimovaDiana.csproj.AssemblyReference.cache
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\obj\Debug\net6.0\FinalTestKarimovaDiana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\obj\Debug\net6.0\FinalTestKarimovaDiana.AssemblyInfoInputs.cache
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\obj\Debug\net6.0\FinalTestKarimovaDiana.AssemblyInfo.cs
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\obj\Debug\net6.0\FinalTestKarimovaDiana.csproj.CoreCompileInputs.cache
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\bin\Debug\net6.0\FinalTestKarimovaDiana.exe
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\bin\Debug\net6.0\FinalTestKarimovaDiana.deps.json
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\bin\Debug\net6.0\FinalTestKarimovaDiana.runtimeconfig.json
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\bin\Debug\net6.0\FinalTestKarimovaDiana.dll
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\bin\Debug\net6.0\FinalTestKarimovaDiana.pdb
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\obj\Debug\net6.0\FinalTestKarimovaDiana.dll
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\obj\Debug\net6.0\refint\FinalTestKarimovaDiana.dll
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\obj\Debug\net6.0\FinalTestKarimovaDiana.pdb
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\obj\Debug\net6.0\FinalTestKarimovaDiana.genruntimeconfig.cache
+C:\Users\79172\Desktop\FinalTestKarimovaDiana\obj\Debug\net6.0\ref\FinalTestKarimovaDiana.dll
